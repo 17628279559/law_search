@@ -1,0 +1,9 @@
+node_modules/
+dist/
+Local/
+pythonImg/
+__pycache__/
+
+config.py
+
+.vscode/*
